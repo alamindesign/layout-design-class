@@ -1,0 +1,9 @@
+.myclass{
+    background-image: linear-gradient(90deg,white 20%, yellow);
+    height: 100vh;
+} 
+.portrait{
+    height: 50vh;
+    margin-left: 200px;
+
+}
